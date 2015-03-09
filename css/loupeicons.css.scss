@@ -1,0 +1,148 @@
+@font-face {
+  font-family: 'loupeicons';
+  src: url('../fonts/loupeicons.eot?2yokh');
+  src: url('../fonts/loupeicons.eot?#iefix2yokh') format('embedded-opentype'),
+       url('../fonts/loupeicons.woff?2yokh') format('woff'),
+       url('../fonts/loupeicons.ttf?2yokh') format('truetype'),
+       url('../fonts/loupeicons.svg?2yokh#loupeicons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="loupeicons-"],
+[class*="loupeicons-"] {
+  font-family: 'loupeicons';
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  speak: none;
+  text-transform: none;
+}
+
+.loupeicons-all:before {
+  content: '\e600';
+}
+
+.loupeicons-beginner
+.path1:before {
+  content: '\e601';
+  color: rgb(98, 100, 43);
+}
+
+.loupeicons-beginner
+.path2:before {
+  color: rgb(4, 0, 0);
+  margin-left: -1em;
+  content: '\e602';
+}
+
+.loupeicons-carrier:before {
+  content: '\e603';
+}
+
+.loupeicons-clip-cancel:before {
+  content: '\e604';
+}
+
+.loupeicons-comment:before {
+  content: '\e605';
+}
+
+.loupeicons-config:before {
+  content: '\e606';
+}
+
+.loupeicons-connection:before {
+  content: '\e607';
+}
+
+.loupeicons-file:before {
+  content: '\e608';
+}
+
+.loupeicons-forum:before {
+  content: '\e609';
+}
+
+.loupeicons-inquiry:before {
+  content: '\e60a';
+}
+
+.loupeicons-invite:before {
+  content: '\e60b';
+}
+
+.loupeicons-licence:before {
+  content: '\e60c';
+}
+
+.loupeicons-like-cancel:before {
+  content: '\e60d';
+}
+
+.loupeicons-like:before {
+  content: '\e60e';
+}
+
+.loupeicons-logout:before {
+  content: '\e60f';
+}
+
+.loupeicons-member:before {
+  content: '\e610';
+}
+
+.loupeicons-menu:before {
+  content: '\e611';
+}
+
+.loupeicons-message:before {
+  content: '\e612';
+}
+
+.loupeicons-notification:before {
+  content: '\e613';
+}
+
+.loupeicons-policy:before {
+  content: '\e614';
+}
+
+.loupeicons-post:before {
+  content: '\e615';
+}
+
+.loupeicons-preview-disable:before {
+  content: '\e616';
+}
+
+.loupeicons-privacy:before {
+  content: '\e617';
+}
+
+.loupeicons-question:before {
+  content: '\e618';
+}
+
+.loupeicons-schoolhouse:before {
+  content: '\e619';
+}
+
+.loupeicons-search1:before {
+  content: '\e61a';
+}
+
+.loupeicons-search2:before {
+  content: '\e61b';
+}
+
+.loupeicons-tutorial:before {
+  content: '\e61c';
+}
+
+.loupeicons-version:before {
+  content: '\e61d';
+}
